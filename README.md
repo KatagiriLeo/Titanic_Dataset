@@ -43,6 +43,6 @@ The analysis includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Titanic_Dataset.git
+   git clone https://github.com/KatagiriLeo/Titanic_Dataset.git
    cd Titanic_Dataset
    ```
